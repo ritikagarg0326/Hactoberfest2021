@@ -1,21 +1,21 @@
 # Hacktoberfest2021  
 
-#Description  
+# Description  
 
 You are given an integer N. Consider the sequence containing the integers 1,2,…,N in increasing order (each exactly once). 
 Find the length of the longest subarray in this sequence such that the bitwise AND of all elements in the subarray is positive.  
 
-#time complexity:  
+# time complexity:  
 
 o(n)  
 
-#constraints:  
+# constraints:  
 
 Constraints  
 1≤T≤105  
 1≤N≤109  
 
-#python code:
+# python code:
 ```python 
 t=int(input())
 for i in range(t):
